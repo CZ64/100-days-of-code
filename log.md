@@ -1,5 +1,17 @@
 # 100 Days Of Code - 学習ログ
 
+### Day21: 12/17(木)
+**今日の進捗**  
+- C++入門 AtCoder 1.05
+- Ruby 入門 30/100%  
+- Ruby on Rails 27/100%  
+- RSpec 72/237p  
+- Docker 23/100%   
+- ポートフォリオ RuboCop導入
+
+**感想**  
+　RuboCop導入でコードをルール通りに修正できた。
+ 
 ### Day20: 12/16(水)
 **今日の進捗**  
 - C++入門 AtCoder 1.04
